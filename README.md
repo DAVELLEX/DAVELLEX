@@ -6,6 +6,10 @@
   <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/assets/github-banner.png" width="100%" alt="DAVELLEX Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/assets/logo.png" width="180" alt="DAVELLEX Logo"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm DAVELLEX</h1>
 
 <h3 align="center">
