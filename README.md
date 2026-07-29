@@ -102,3 +102,111 @@ I specialize in creating intelligent automation systems, scalable APIs, AI-power
 <img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Automation
+
+Building intelligent AI systems that automate business workflows using Python, APIs, and LLMs.
+
+</td>
+
+<td width="50%">
+
+### ⚡ FastAPI Backend
+
+Scalable backend applications built with FastAPI, authentication, REST APIs, and async programming.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💬 Telegram Bots
+
+Custom Telegram bots for automation, notifications, customer support, and business management.
+
+</td>
+
+<td width="50%">
+
+### 📈 Trading Bots
+
+Automated trading systems using TradingView alerts, MT4/MT5, webhooks, and APIs.
+
+</td>
+
+</tr>
+
+</table>
+---
+
+# 💼 Services
+
+✅ AI Automation
+
+✅ Python Development
+
+✅ FastAPI Backend Development
+
+✅ Telegram Bot Development
+
+✅ Trading Bot Development
+
+✅ REST API Development
+
+✅ Web Automation
+
+✅ Web Scraping
+
+✅ API Integration
+
+✅ Docker Deployment
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/DAVELLEX">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:peterdave2220@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> **Build. Automate. Innovate.**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+I'm always building, learning, and creating solutions that make businesses smarter.
+
+</p>
