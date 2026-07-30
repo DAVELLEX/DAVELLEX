@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/logo.png"> width="180" alt="DAVELLEX Logo"/>
+  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/logo.png"> 
 </p>
 
 <h1 align="center">Hi 👋, I'm DAVELLEX</h1>
