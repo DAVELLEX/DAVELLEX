@@ -215,8 +215,10 @@ I'm always building, learning, and creating solutions that make businesses smart
 
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
