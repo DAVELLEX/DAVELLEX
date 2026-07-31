@@ -6,74 +6,93 @@
   <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/github-banner.png" width="100%" alt="DAVELLEX Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/logo.png"> 
-</p>
-
-<h1 align="center">Hi 👋, I'm DAVELLEX</h1>
+<h1 align="center">
+Hi 👋 I'm <span style="color:#3B82F6;">DAVELLEX</span>
+</h1>
 
 <h3 align="center">
 Python Developer • AI Automation Engineer • Backend Developer
 </h3>
 
 <p align="center">
-Building intelligent software, scalable APIs, AI agents, and automation systems that help businesses work smarter.
-</p>
-
-<p align="center">
-<b>🚀 Build • Automate • Innovate.</b>
+Building intelligent software that automates workflows, powers AI solutions, and scales modern businesses.
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DAVELLEX&label=Profile+Views&color=60A5FA&style=for-the-badge"/>
+<a href="mailto:peterdave2220@gmail.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/DAVELLEX?style=for-the-badge&logo=github"/>
+<a href="https://github.com/DAVELLEX">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/DAVELLEX?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Available_for_Freelance-22C55E?style=for-the-badge"/>
+</a>
 
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Python+Developer;AI+Automation+Engineer;FastAPI+Developer;Telegram+Bot+Developer;Trading+Bot+Developer;Backend+Engineer;Open+Source+Contributor"/>
+</p>
 ---
 
 # 💼 About Me
 
-I'm a passionate **Python Developer**, **AI Automation Engineer**, and **Backend Developer** focused on building software that solves real business problems.
+I'm a software developer focused on building scalable backend systems, AI-powered automation, bots, and APIs.
 
-I specialize in creating intelligent automation systems, scalable APIs, AI-powered applications, and custom bots that improve productivity and simplify complex workflows.
+I enjoy turning repetitive manual tasks into efficient automated workflows that save time and increase productivity.
 
----
+### I specialize in
 
-# 🚀 What I Build
-
-- 🤖 AI Agents
-- ⚡ FastAPI APIs
-- 💬 Telegram Bots
+- 🤖 AI Automation
+- 🐍 Python Development
+- ⚡ FastAPI
+- 🔗 REST APIs
+- 🤝 API Integrations
 - 📈 Trading Bots
-- 🔗 API Integrations
+- 💬 Telegram Bots
 - 🌐 Web Automation
-- 🕸️ Web Scraping
-- ☁️ Cloud Applications
-- 🐳 Docker Projects
+- ☁️ Cloud Deployment
 
 ---
 
-# 🛠 Tech Stack
+## ⚙️ Languages
 
-<p align="center">
+Python • JavaScript • TypeScript • SQL • HTML • CSS
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,nodejs,express,html,css,mysql,postgres,mongodb,sqlite,docker,git,github,linux,postman,vscode"/>
+## 🚀 Backend
 
-</p>
+FastAPI • Flask • Node.js • Express
+
+## 🤖 AI & Automation
+
+OpenAI API • Claude API • n8n • Telegram API • Discord API
+
+## 🗄️ Databases
+
+PostgreSQL • MySQL • SQLite • MongoDB
+
+## ☁️ DevOps
+
+Git • GitHub • Docker • Linux • Postman • VS Code
 
 ---
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DAVELLEX&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DAVELLEX&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVELLEX&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVELLEX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DAVELLEX&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -114,42 +133,13 @@ I specialize in creating intelligent automation systems, scalable APIs, AI-power
 <table>
 <tr>
 
-<td width="50%">
-
-### 🤖 AI Automation
-
-Building intelligent AI systems that automate business workflows using Python, APIs, and LLMs.
-
-</td>
-
-<td width="50%">
-
-### ⚡ FastAPI Backend
-
-Scalable backend applications built with FastAPI, authentication, REST APIs, and async programming.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💬 Telegram Bots
-
-Custom Telegram bots for automation, notifications, customer support, and business management.
-
-</td>
-
-<td width="50%">
-
-### 📈 Trading Bots
-
-Automated trading systems using TradingView alerts, MT4/MT5, webhooks, and APIs.
-
-</td>
-
+🚀 Project	Description
+🤖 AI Agents	AI assistants and workflow automation
+📈 Trading Bots	Automated trading with APIs & webhooks
+💬 Telegram Bots	Intelligent Telegram automation
+⚡ FastAPI APIs	High-performance backend services
+🌐 Web Automation	Selenium & Playwright automation
+🛒 Custom Bots	Business-specific automation solutions
 </tr>
 
 </table>
