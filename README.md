@@ -37,7 +37,6 @@ Building intelligent software that automates workflows, powers AI solutions, and
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Python+Developer;AI+Automation+Engineer;FastAPI+Developer;Telegram+Bot+Developer;Trading+Bot+Developer;Backend+Engineer;Open+Source+Contributor"/>
 </p>
----
 
 # 💼 About Me
 
@@ -121,28 +120,31 @@ Git • GitHub • Docker • Linux • Postman • VS Code
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
+### 🤖 AI Automation Platform
+> Intelligent automation systems powered by Python, APIs, and AI.
 
-🚀 Project	Description
-🤖 AI Agents	AI assistants and workflow automation
-📈 Trading Bots	Automated trading with APIs & webhooks
-💬 Telegram Bots	Intelligent Telegram automation
-⚡ FastAPI APIs	High-performance backend services
-🌐 Web Automation	Selenium & Playwright automation
-🛒 Custom Bots	Business-specific automation solutions
-</tr>
+### 📈 Trading Bots
+> Automated trading bots integrated with TradingView, MT4/MT5, and broker APIs.
 
-</table>
+### 💬 Telegram Bots
+> Custom Telegram bots for business automation, notifications, and management.
+
+### ⚡ FastAPI Backend
+> High-performance REST APIs with authentication, databases, and async support.
+
+### 🌐 Web Automation
+> Selenium and Playwright solutions for scraping and workflow automation.
+
+### 🛠️ Custom Business Solutions
+> Tailored software that automates repetitive business processes.
+
 ---
 
 # 💼 Services
