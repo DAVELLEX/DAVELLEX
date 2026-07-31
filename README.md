@@ -214,3 +214,9 @@ Automated trading systems using TradingView alerts, MT4/MT5, webhooks, and APIs.
 I'm always building, learning, and creating solutions that make businesses smarter.
 
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
