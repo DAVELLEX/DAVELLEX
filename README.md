@@ -78,24 +78,14 @@ I enjoy working on projects where software can replace manual processes, connect
 `AI APIs` • `REST APIs` • `Webhooks` • `Async Python` • `Telegram Bots` • `Discord Bots` • `Selenium` • `Playwright` • `Web Scraping`
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DAVELLEX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="DAVELLEX GitHub Statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVELLEX&layout=compact&theme=tokyonight&hide_border=true" alt="DAVELLEX Top Languages">
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DAVELLEX&theme=tokyonight&hide_border=true" alt="DAVELLEX GitHub Streak">
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=7" alt="DAVELLEX GitHub Trophies">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVELLEX&theme=tokyo-night&hide_border=true&area=true" alt="DAVELLEX Contribution Graph">
 </p>
 
 ---
