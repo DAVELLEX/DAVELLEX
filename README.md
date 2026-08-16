@@ -1,7 +1,5 @@
-# DAVELLEX — GitHub Profile README
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/assets/github-banner.png" width="100%" alt="DAVELLEX Banner">
+  <img src="https://raw.githubusercontent.com/DAVELLEX/DAVELLEX/main/github-banner.png" width="100%" alt="DAVELLEX Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm DAVELLEX</h1>
@@ -84,7 +82,7 @@ I enjoy working on projects where software can replace manual processes, connect
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DAVELLEX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="DAVELLEX GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DAVELLEX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="DAVELLEX GitHub Statistics">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVELLEX&layout=compact&theme=tokyonight&hide_border=true" alt="DAVELLEX Top Languages">
 </p>
 
@@ -97,7 +95,7 @@ I enjoy working on projects where software can replace manual processes, connect
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=DAVELLEX&theme=tokyonight&no-frame=true&row=1&column=7" alt="DAVELLEX GitHub Trophies">
 </p>
 
 ---
@@ -139,18 +137,6 @@ Turning repetitive business processes into software-powered workflows.
 * ☁️ Cloud deployment
 * 📦 Modular software architecture
 
----
-
-## 📚 Currently Learning
-
-```text
-Python & Async Programming     ████████████████░░
-AI Engineering                 ██████████████░░░░
-Backend Architecture           ██████████████░░░░
-FastAPI & APIs                 ███████████████░░░
-Docker & Cloud                 ████████████░░░░░
-Machine Learning               ██████████░░░░░░░
-```
 
 ---
 
