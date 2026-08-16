@@ -92,6 +92,34 @@ I enjoy working on projects where software can replace manual processes, connect
 
 ## 🚀 Featured Projects
 
+### 🤖 Telegram Channel Automation System
+Automated Telegram workflows designed to simplify channel management and repetitive publishing tasks.
+
+🔗 [View Repository](https://github.com/DAVELLEX/telegram-channel-automation-system)
+
+---
+
+### 💬 Telegram Bot
+A Python-based Telegram bot project demonstrating bot development, automation, and API integration.
+
+🔗 [View Repository](https://github.com/DAVELLEX/telegram-feautc-bot)
+
+---
+
+### 🖱️ Auto Clicker Server
+A software automation project focused on automating repetitive desktop/server tasks.
+
+🔗 [View Repository](https://github.com/DAVELLEX/auto-clicker-server)
+
+
+---
+
+### 🛠️ More Projects
+
+Explore my GitHub repositories to see more automation, backend, bot, and software development projects.
+
+🔗 [View All Repositories](https://github.com/DAVELLEX?tab=repositories)
+
 ### 🤖 AI Automation Systems
 
 Building intelligent systems that combine AI, APIs, automation, and business workflows.
